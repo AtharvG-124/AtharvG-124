@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AtharvG-124
 - 👀 I’m interested in working with python and making websites 
-- 🌱 I’m currently learning python and soon start to lear C++
+- 🌱 I’m currently learning python and soon start to learn C++
 - 💞️ I’m looking to collaborate on any projects that I will be able to help on
 - 📫 How to reach me: atharv.gupta124@gmail.com. My link tree: https://linktr.ee/AtharvG
 
